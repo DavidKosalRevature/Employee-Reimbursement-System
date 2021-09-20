@@ -18,6 +18,7 @@ Employee Reimbursement Ticket that allows users to register & login as an employ
 * Allowing finance managers to filter the list of tickets based on the type of reimbursement
 
 # Getting Started
+https://github.com/DavidKosalRevature/Revature-Project-1.git
 
 # Usage
 * Run the program in a Java IDE that supports servlets or enterprise features
