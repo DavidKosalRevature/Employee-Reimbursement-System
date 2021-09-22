@@ -4,6 +4,7 @@ Employee Reimbursement Ticket that allows users to register & login as an employ
 # Technologies Used
 * Java
 * Hibernate
+* MySQL
 * HTML
 * CSS
 
